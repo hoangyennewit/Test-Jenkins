@@ -1,0 +1,98 @@
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\appsettings.Development.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\appsettings.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.staticwebassets.runtime.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.staticwebassets.endpoints.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.exe
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.deps.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.runtimeconfig.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.dll
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\bin\Debug\net10.0\Jenkins test.pdb
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.AssemblyInfoInputs.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.AssemblyInfo.cs
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.csproj.CoreCompileInputs.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.MvcApplicationPartsAssemblyInfo.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.RazorAssemblyInfo.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.RazorAssemblyInfo.cs
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\scopedcss\bundle\Jenkins test.styles.css
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\scopedcss\projectbundle\Jenkins test.bundle.scp.css
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\n2pe9t4ypp-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\nqp0hk7d3h-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\kgg45k28aq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\wu9bkce3qy-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\5gdx6rscek-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\kvwpup78km-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\2efp88n1w4-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\3zr7l8748g-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\mziwn0s2k5-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\53g3dz889w-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\qsgcg8caa9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\vimaje39hg-{0}-ub07r2b239-ub07r2b239.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\0ij2q9yclz-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\lp17ccbaul-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\gtg7f9nahy-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\f2ksosvk3w-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\4osvvavmtm-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\8txk62qsfs-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\euonznkpc7-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\s3jdzk6a5h-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\bqoin2ukc6-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\lccbog2ea7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\mph6ksuwr8-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\e76yaszi2i-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\f00fk0wmy6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\2273l5n825-{0}-06098lyss8-06098lyss8.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\4vhzprhwhk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\qme33pobra-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\r214caway3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\yzv0zwn78p-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\yftm5ceuu1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\z4hbtmkfbt-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\7oi8905pi6-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\cq4fh01z3p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\lv1e0dgpds-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\iy9878rngy-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\xehivee5an-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\jg8z91k1oy-{0}-493y06b0oq-493y06b0oq.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\c623g89tdr-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\qylci5fe8r-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\xkttlld2ix-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\xd6vljx868-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\9cbz9szkbd-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\x3eem598k8-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\yyt8fey1se-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\tv9014f68h-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\lytbbcvek1-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\xstybbu13y-{0}-47otxtyo56-47otxtyo56.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\ekvuw3aq8i-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\jhgzt0gcsc-{0}-356vix0kms-356vix0kms.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\c0c9wg9ft5-{0}-83jwlth58m-83jwlth58m.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\zfs1knd24r-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\fbxhdqde94-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\fypqraieq7-{0}-ag7o75518u-ag7o75518u.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\hfnknl3iq5-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\pspis5ecto-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\r20nzk8lwb-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\6bncd0j3o2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\odr34pc8yq-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\1czfj6rdfn-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\4hxw9at309-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\wk3pz5qcfd-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\5gsaeg9ehy-{0}-ajc9hi1wnw-ajc9hi1wnw.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\compressed\4tmycse9r8-{0}-ajc9hi1wnw-ajc9hi1wnw.gz
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\staticwebassets.build.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\staticwebassets.development.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\swae.build.ex.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.dll
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\refint\Jenkins test.dll
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.pdb
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\Jenkins test.genruntimeconfig.cache
+D:\HK6\HK6-NHAP MON DEVOPS\LUYEN TAP\Jenkins test\Jenkins test\obj\Debug\net10.0\ref\Jenkins test.dll
